@@ -1,62 +1,75 @@
 DeepSeek
 梁文锋
+@10
 
 微软
 Microsoft
+@10
 
 英伟达
 NVIDIA
 黄仁勋
+@10
 
 AMD
 苏姿丰
+@10
 
 谷歌
 Google
 Gemini
 Deepmind
+@10
 
 Openai
 ChatGPT
 Sora
+@10
 
 Anthropic
 Claude
+@10
 
 Meta
 Llama
+@10
 
 中国
 日本
+@10
 
 中国
 美国
+@10
 
 俄罗斯
 乌克兰
-美国
+@10
 
 美国
 委内瑞拉
+@10
 
 以色列
 加沙
+@10
 
 字节
 Bytedance
 张一鸣
-
-抖音
-Tiktok
+@10
 
 华为
 HUAWEI
+@10
 
 鸿蒙
 HarmonyOS
+@10
 
 Apple
 Iphone
 Ipad
 Mac
 Ios
+@10
