@@ -1,5 +1,4 @@
 DeepSeek
-DeepEP
 梁文锋
 
 微软
@@ -8,10 +7,9 @@ Microsoft
 英伟达
 NVIDIA
 黄仁勋
-Jensen Huang
 
 AMD
-Lisa Su
+苏姿丰
 
 谷歌
 Google
@@ -28,28 +26,21 @@ Claude
 Meta
 Llama
 
-美国
+中国
 日本
-韩国
-欧洲
-欧盟
+
+中国
+美国
+
 俄罗斯
 乌克兰
+美国
 
-月球
-登月
-火星
-宇宙
-飞船
-航空
+美国
+委内瑞拉
 
-LLM
-GPT
-Gemini
-DeepSeek
-Claude
-Llama
-Grok
+以色列
+加沙
 
 京东
 刘强东
@@ -61,22 +52,13 @@ Bytedance
 抖音
 Tiktok
 
-游戏科学
-冯骥
-黑神话
-
-灵游坊
-梁其伟
-影之刃零
-
 华为
 HUAWEI
+
 鸿蒙
 HarmonyOS
-任正非
 
 Apple
-Tim Cook
 Iphone
 Ipad
 Mac
@@ -88,4 +70,3 @@ BYD
 
 特斯拉
 马斯克
-Elon Mask
