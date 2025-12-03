@@ -42,9 +42,6 @@ Llama
 以色列
 加沙
 
-京东
-刘强东
-
 字节
 Bytedance
 张一鸣
@@ -63,10 +60,3 @@ Iphone
 Ipad
 Mac
 Ios
-
-比亚迪
-BYD
-王传福
-
-特斯拉
-马斯克
